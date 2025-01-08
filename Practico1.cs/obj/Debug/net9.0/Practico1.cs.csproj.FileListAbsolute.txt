@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\bin\Debug\net9.0\Practico1.cs.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\bin\Debug\net9.0\Practico1.cs.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\bin\Debug\net9.0\Practico1.cs.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\bin\Debug\net9.0\Practico1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\bin\Debug\net9.0\Practico1.cs.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.sourcelink.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\refint\Practico1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\Practico1.cs.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\Practico1.cs\obj\Debug\net9.0\ref\Practico1.cs.dll

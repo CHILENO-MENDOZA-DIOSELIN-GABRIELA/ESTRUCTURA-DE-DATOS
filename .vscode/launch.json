@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+        {
+            "name": "C#: semana 3",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\semana 3.cs\\semana 3\\semana 3.csproj",
+            "launchConfigurationId": "TargetFramework=;semana 3"
+        }
+    ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\semana 3.cs\\semana 3\\semana 3.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\semana 3.cs\\semana 3\\semana 3.csproj": {
+    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\semana 3.cs\\semana 3\\semana 3.csproj",
-        "projectName": "semana 3",
-        "projectPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\semana 3.cs\\semana 3\\semana 3.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj",
+        "projectName": "Practico1.cs",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\semana 3.cs\\semana 3\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
