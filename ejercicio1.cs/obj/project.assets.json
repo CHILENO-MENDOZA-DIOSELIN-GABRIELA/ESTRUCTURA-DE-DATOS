@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj",
-      "projectName": "Practico1.cs",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\Practico1.cs.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\ejercicio1.cs\\ejercicio1.cs.csproj",
+      "projectName": "ejercicio1.cs",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\ejercicio1.cs\\ejercicio1.cs.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\Practico1.cs\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\ESTRUCTURA DE DATOS\\ejercicio1.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

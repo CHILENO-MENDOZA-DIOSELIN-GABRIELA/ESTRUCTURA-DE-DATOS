@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\bin\Debug\net9.0\ejercicio1.cs.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\bin\Debug\net9.0\ejercicio1.cs.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\bin\Debug\net9.0\ejercicio1.cs.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\bin\Debug\net9.0\ejercicio1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\bin\Debug\net9.0\ejercicio1.cs.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.sourcelink.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\refint\ejercicio1.cs.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ejercicio1.cs.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\ejercicio1.cs\obj\Debug\net9.0\ref\ejercicio1.cs.dll
