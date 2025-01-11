@@ -1,24 +1,46 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main()
     {
-        // Solicitar el nombre del usuario
-        Console.Write("Por favor, ingresa tu nombre: ");
-        string nombre = Console.ReadLine();
+        while (true)
+        {
+            Console.WriteLine("\nSeleccione el ejercicio que desea ejecutar:");
+            Console.WriteLine("1. Saludo simple");
+            Console.WriteLine("2. Mostrar nombre N veces");
+            Console.WriteLine("3. Contar letras del nombre");
+            Console.WriteLine("4. Aplicar descuentos e IVA");
+            Console.WriteLine("5. Notas de asignaturas");
+            Console.WriteLine("6. Salir");
+            Console.Write("Opción: ");
 
-        // Convertir el nombre a mayúsculas
-        string nombreMayusculas = nombre.ToUpper();
+            string opcion = Console.ReadLine();
 
-        // Calcular el número de letras (ignorando espacios)
-        int numeroLetras = nombre.Replace(" ", "").Length;
-
-        // Mostrar el mensaje en pantalla
-        Console.WriteLine($"{nombreMayusculas} tiene {numeroLetras} letras.");
-
-        // Esperar a que el usuario cierre el programa
-        Console.WriteLine("Presiona cualquier tecla para salir...");
-        Console.ReadKey();
+            switch (opcion)
+            {
+                case "1":
+                    Ejercicio1.Ejecutar();
+                    break;
+                case "2":
+                    Ejercicio2.Ejecutar();
+                    break;
+                case "3":
+                    Ejercicio3.Ejecutar();
+                    break;
+                case "4":
+                    Ejercicio4.Ejecutar();
+                    break;
+                case "5":
+                    Ejercicio5.Ejecutar();
+                    break;
+                case "6":
+                    Console.WriteLine("Saliendo...");
+                    return;
+                default:
+                    Console.WriteLine("Opción inválida.");
+                    break;
+            }
+        }
     }
 }
