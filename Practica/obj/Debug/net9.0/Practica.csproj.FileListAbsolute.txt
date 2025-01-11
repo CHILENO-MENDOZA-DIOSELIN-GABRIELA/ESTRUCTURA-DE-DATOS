@@ -1,0 +1,15 @@
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\bin\Debug\net9.0\Practica.exe
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\bin\Debug\net9.0\Practica.deps.json
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\bin\Debug\net9.0\Practica.runtimeconfig.json
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\bin\Debug\net9.0\Practica.dll
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\bin\Debug\net9.0\Practica.pdb
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.AssemblyInfoInputs.cache
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.AssemblyInfo.cs
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.sourcelink.json
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.dll
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\refint\Practica.dll
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.pdb
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\Practica.genruntimeconfig.cache
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\Practica\obj\Debug\net9.0\ref\Practica.dll
