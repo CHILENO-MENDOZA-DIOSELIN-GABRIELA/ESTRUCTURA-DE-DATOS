@@ -4,17 +4,17 @@ public class Ejercicio2
 {
     public static void Ejecutar()
     {
-        Console.Write("Por favor, ingresa tu nombre: ");
+        Console.WriteLine("Ingrese su nombre:");
         string nombre = Console.ReadLine();
-
-        Console.Write("Por favor, ingresa un número entero: ");
-        int numero;
-        while (!int.TryParse(Console.ReadLine(), out numero) || numero < 0)
+        Console.WriteLine("¿Cuántas veces desea ver su nombre?");
+        
+        int veces;
+        while (!int.TryParse(Console.ReadLine(), out veces) || veces <= 0)
         {
-            Console.WriteLine("Introduce un número entero válido.");
+            Console.WriteLine("Por favor, ingrese un número válido mayor a 0.");
         }
 
-        for (int i = 0; i < numero; i++)
+        for (int i = 0; i < veces; i++)
         {
             Console.WriteLine(nombre);
         }

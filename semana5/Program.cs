@@ -6,6 +6,7 @@ class Program
     {
         while (true)
         {
+            // Mostrar las opciones del menú
             Console.WriteLine("\nSeleccione el ejercicio que desea ejecutar:");
             Console.WriteLine("1. Saludo simple");
             Console.WriteLine("2. Mostrar nombre N veces");
@@ -15,8 +16,10 @@ class Program
             Console.WriteLine("6. Salir");
             Console.Write("Opción: ");
 
+            // Leer la opción seleccionada
             string opcion = Console.ReadLine();
 
+            // Verificar la opción seleccionada
             switch (opcion)
             {
                 case "1":
@@ -36,7 +39,7 @@ class Program
                     break;
                 case "6":
                     Console.WriteLine("Saliendo...");
-                    return;
+                    return; // Termina el programa
                 default:
                     Console.WriteLine("Opción inválida.");
                     break;

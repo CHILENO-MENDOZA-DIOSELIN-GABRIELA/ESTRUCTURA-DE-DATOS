@@ -4,11 +4,8 @@ public class Ejercicio3
 {
     public static void Ejecutar()
     {
-        Console.Write("Por favor, ingresa tu nombre: ");
+        Console.WriteLine("Ingrese su nombre:");
         string nombre = Console.ReadLine();
-        string nombreMayusculas = nombre.ToUpper();
-        int numeroLetras = nombre.Replace(" ", "").Length;
-
-        Console.WriteLine($"{nombreMayusculas} tiene {numeroLetras} letras.");
+        Console.WriteLine($"El nombre ingresado tiene {nombre.Length} letras.");
     }
 }

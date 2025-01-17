@@ -1,42 +1,33 @@
 using System;
-using System.Collections.Generic;
 
 public class Ejercicio4
 {
     public static void Ejecutar()
     {
-        Dictionary<string, (double precio, double porcentaje)> cesta = new Dictionary<string, (double, double)>
+        Console.WriteLine("Ingrese el precio del producto:");
+        decimal precio;
+        while (!decimal.TryParse(Console.ReadLine(), out precio) || precio <= 0)
         {
-            { "Producto1", (100.0, 10.0) },
-            { "Producto2", (200.0, 15.0) },
-            { "Producto3", (50.0, 5.0) }
-        };
-
-        double totalConDescuento = CalcularPrecioFinal(cesta, AplicarDescuento);
-        Console.WriteLine($"Precio final con descuento: {totalConDescuento}");
-
-        double totalConIVA = CalcularPrecioFinal(cesta, AplicarIVA);
-        Console.WriteLine($"Precio final con IVA: {totalConIVA}");
-    }
-
-    static double AplicarDescuento(double precio, double porcentaje)
-    {
-        return precio - (precio * porcentaje / 100);
-    }
-
-    static double AplicarIVA(double precio, double porcentaje)
-    {
-        return precio + (precio * porcentaje / 100);
-    }
-
-    static double CalcularPrecioFinal(Dictionary<string, (double precio, double porcentaje)> cesta, Func<double, double, double> operacion)
-    {
-        double total = 0;
-        foreach (var producto in cesta)
-        {
-            double precioFinal = operacion(producto.Value.precio, producto.Value.porcentaje);
-            total += precioFinal;
+            Console.WriteLine("Por favor, ingrese un precio válido mayor a 0.");
         }
-        return total;
+
+        Console.WriteLine("Ingrese el porcentaje de descuento:");
+        decimal descuento;
+        while (!decimal.TryParse(Console.ReadLine(), out descuento) || descuento < 0)
+        {
+            Console.WriteLine("Por favor, ingrese un descuento válido.");
+        }
+
+        Console.WriteLine("Ingrese el porcentaje de IVA:");
+        decimal iva;
+        while (!decimal.TryParse(Console.ReadLine(), out iva) || iva < 0)
+        {
+            Console.WriteLine("Por favor, ingrese un IVA válido.");
+        }
+
+        decimal precioConDescuento = precio - (precio * descuento / 100);
+        decimal precioFinal = precioConDescuento + (precioConDescuento * iva / 100);
+        Console.WriteLine($"Precio con descuento: {precioConDescuento:C2}");
+        Console.WriteLine($"Precio final con IVA: {precioFinal:C2}");
     }
 }
