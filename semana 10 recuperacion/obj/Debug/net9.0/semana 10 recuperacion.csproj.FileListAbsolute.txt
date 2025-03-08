@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\bin\Debug\net9.0\semana 10 recuperacion.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\bin\Debug\net9.0\semana 10 recuperacion.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\bin\Debug\net9.0\semana 10 recuperacion.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\bin\Debug\net9.0\semana 10 recuperacion.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\bin\Debug\net9.0\semana 10 recuperacion.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.sourcelink.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\refint\semana 10 recuperacion.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\semana 10 recuperacion.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA-DE-DATOS-3\semana 10 recuperacion\obj\Debug\net9.0\ref\semana 10 recuperacion.dll
